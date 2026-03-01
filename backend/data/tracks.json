@@ -1,0 +1,20 @@
+[
+ {
+  "id":1,
+  "title":"Blockchain Beats",
+  "artist":"CryptoSound",
+  "url":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+ },
+ {
+  "id":2,
+  "title":"Web3 Dreams",
+  "artist":"ChainMusic",
+  "url":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+ },
+ {
+  "id":3,
+  "title":"Solana Waves",
+  "artist":"PumpChain",
+  "url":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+ }
+]
